@@ -1,0 +1,15 @@
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\bin\Debug\net7.0\Kontrolnaya.exe
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\bin\Debug\net7.0\Kontrolnaya.deps.json
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\bin\Debug\net7.0\Kontrolnaya.runtimeconfig.json
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\bin\Debug\net7.0\Kontrolnaya.dll
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\bin\Debug\net7.0\Kontrolnaya.pdb
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\Kontrolnaya.csproj.AssemblyReference.cache
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\Kontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\Kontrolnaya.AssemblyInfoInputs.cache
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\Kontrolnaya.AssemblyInfo.cs
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\Kontrolnaya.csproj.CoreCompileInputs.cache
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\Kontrolnaya.dll
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\refint\Kontrolnaya.dll
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\Kontrolnaya.pdb
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\Kontrolnaya.genruntimeconfig.cache
+C:\Users\iliyy\OneDrive\Рабочий стол\kursi\Kontrolnaya\obj\Debug\net7.0\ref\Kontrolnaya.dll
